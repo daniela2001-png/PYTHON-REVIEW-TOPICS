@@ -113,7 +113,7 @@ hotel.ocupacion_total() # retorna dos ya que restamos 1 huesped a los 3 que hay 
 
 ------------
 
-##By: Daniela Morales 
+## By: Daniela Morales 
 
 ------------
 
