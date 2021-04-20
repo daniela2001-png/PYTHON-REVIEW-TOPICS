@@ -10,4 +10,4 @@ class Persona():
 
 
 daniela = Persona("daniela")
-daniela.saludar()
+print(daniela.saludar())
