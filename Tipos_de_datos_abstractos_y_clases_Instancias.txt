@@ -14,3 +14,23 @@ TIPOS DE DATOS ABSTRACTOS
     - 1) Decomposicion => Dividr el objecto en fragmentos mas espeficios ejemplo: (el objeto resturante se compone de sillas, mesas, cocinas...)
     - 2) Abstraccion => Por ejemplo cuuano ordenas una pizza no te preocupas por como fue el proceso que conlleva que esa pizza a que temperatura deberia estar el horno que tanto queso etc
     - 3) Encapsulacion => aqui podemos esconder ciertos datos que no son importantes a  personas que usen nuestras clases
+
+
+INSTANCIAS EN PYTHON3
+
+- Mientras que la Clase es un molde, los objetos creados son lo que conocemos como "instancia"
+- Cuando se crea una instancia, el método __init__, se ejecuta primero
+
+NOTA || RESUMEN => 
+    - Clases => proveen las estructuras, son un molde.
+    - Instancia => Objeto creado por clase
+    - Métodos => son funciones dentro de clases
+    - Atributos => representan datos, pueden ser públicos o privados
+
+DECOMPOSICION:
+    - Partir el problema en problemas mas pequeños
+    - Las clases permiten crear mayores abstracciones en forma de componentes
+    - Cada clase se encarga de una parte del problema por lo tanto el problema se vuelve mas facil de entender
+
+ABSTRACCION:
+    - Enfocarnos en la informacion central y no secundaria
