@@ -1,0 +1,16 @@
+TIPOS DE DATOS ABSTRACTOS
+
+- En Python todo es un objeto y tiene un tipo.
+    - Represetnacion de datos y formas de interactuar con ellos
+
+- Formas de interactuar con un objeto
+    - Creacion
+    - Manipulacion
+    - Destruccion
+
+- NOTA: si queremos destruir un objeto es decir cuando un objeto no es referido en ningun momento del programa el garbage collector de Python se encarga de limpiar estas referencias
+
+- Ventajas de los tipos de DATOS ABSTRACTOS:
+    - 1) Decomposicion => Dividr el objecto en fragmentos mas espeficios ejemplo: (el objeto resturante se compone de sillas, mesas, cocinas...)
+    - 2) Abstraccion => Por ejemplo cuuano ordenas una pizza no te preocupas por como fue el proceso que conlleva que esa pizza a que temperatura deberia estar el horno que tanto queso etc
+    - 3) Encapsulacion => aqui podemos esconder ciertos datos que no son importantes a  personas que usen nuestras clases
