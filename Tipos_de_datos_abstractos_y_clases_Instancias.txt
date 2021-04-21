@@ -34,3 +34,8 @@ DECOMPOSICION:
 
 ABSTRACCION:
     - Enfocarnos en la informacion central y no secundaria
+
+ENCAPSULACION:
+    - Permite agrupar datos y su comportamiento
+    - Controla el acceso a dichos datos
+    - Previene modificaciones no autorizadas!
