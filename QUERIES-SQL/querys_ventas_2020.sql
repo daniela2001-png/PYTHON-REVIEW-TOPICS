@@ -1,0 +1,7 @@
+-- SABER CUANTAS BOCINAS HEMOS VENDIDO POR MAS DE 600 PESOS DESDE 2019
+USE practicar;
+SELECT COUNT(id) as total_bocinas FROM VENTAS_2020
+WHERE Producto = "Bocina"
+AND valor >= 600
+AND Anio >= 2019
+ORDER BY valor
